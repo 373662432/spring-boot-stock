@@ -8,6 +8,8 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.5.RELEASE/spring-boot-2.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.5.RELEASE/spring-boot-2.3.5.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.4.RELEASE/spring-boot-2.3.4.RELEASE.jar!/" />
     </SOURCES>
   </library>
 </component>
